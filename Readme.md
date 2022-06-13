@@ -10,9 +10,19 @@
 
 * CSS básico
 
+## Projeto consiste em recriar uma pagina estática, com a finalidade de desenvolver habilidades em Front end. 
 
+### Modo de uso:
 
+Para acessar a pagina clique no link abaixo: 
 
+https://taisismarinelo.github.io/Instagran-DIO.gitHub.io/
+
+Para executar a aplicação:
+
+Realize o download do projeto. Extraia os arquivos para uma pagina de sua preferencia, os arquivos /index.htm ou /style.css podem ser abertos em qualquer editor de texto. 
+
+No projeto foi utilizado o Visual Studio Code. Após abrir confirme que confia no editor e terá acesso a construção da aplicação. 
 
 ###  Autor
 ---
